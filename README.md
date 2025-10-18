@@ -5,7 +5,7 @@
 1. Click on `PC2-Team` icon - this will load the competition software.  If you close this, you will need to open / run it again
 2. Log in:
   - Username: `team#` where # is your team number
-  - Password: `team#` where # is your team number
+  - Password: `team#` where # is your team number (the same as your username)
 3. Download the competition sample input and output files from https://github.com/wrightedu/PracticeContest
   - Click the green `Code` button, then click `Download as zip`
 4. Extract the files to somewhere convenient (Desktop is recommended)
@@ -16,7 +16,7 @@
 1. Click on the pc^2 team icon on the desktop.
 2. Sign in with **username: team#** and **password: team#**
 1. Right now you are logged in to the testing server.  
-2. **When the competition starts**, you will close the software and log back in to the competition server.
+2. **When the competition starts**, you will NOT need to re log in (hopefully)
 3. To test your ability to submit your code solutions to the server, your test challenge is the `Parrot` problem - see `Parrot.pdf` to view problem instructions.  Use this problem to **Test** and **Submit** your solution.
 
 ### PC^2 - Test
@@ -36,20 +36,18 @@
 - You will await a determination from the judge
   - Determinations are vague to encourage you to use additional test cases.
 
-## 2023 ACM Programming Contest
+## 2025 ACM Programming Contest
 * Complete as many questions as you can during the contest. 
 
 * All questions require you to read the test data from standard input and write results to standard output; you cannot use any non-contest files for input or output. 
 
-* The input to problems will consist of multiple test cases unless otherwise noted. 
+* The input to problems may consist of multiple test cases or a single tets case, read the problem statement closely! 
 
 * Programming style is not considered in this contest. You are free to code in whatever style you prefer.  Commenting code is not required. 
 
 * All communication with the judges will be handled by the PC2 environment. 
 
 * Allowed programming languages: C, C++, Java, and Python. 
-
-* **Netbeans users: Remove package statement before you submit** 
 
 * **Java users: remember to call `nextLine()` on a scanner after reading in an integer when needed.**
 
@@ -61,7 +59,9 @@
 
 * Hardcopy reference materials are allowed, but not electronic material. Calculators are fine, but no laptops, phones, USB drives, etc. are allowed.  
 
-* No connection to the Internet may be made during the contest. 
+* No connection to the Internet may be made during the contest. (except the sample data repositories, which should be downloaded immediately so we do not think you are cheating!)
+
+* No access to generative AI tools will be permittied. 
 
 * **Only one computer may be used per team.**
 
