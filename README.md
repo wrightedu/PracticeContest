@@ -36,7 +36,7 @@
 - You will await a determination from the judge
   - Determinations are vague to encourage you to use additional test cases.
 
-## 2025 ACM Programming Contest
+## For the real ACM Programming Contest
 * Complete as many questions as you can during the contest. 
 
 * All questions require you to read the test data from standard input and write results to standard output; you cannot use any non-contest files for input or output. 
